@@ -1,0 +1,4 @@
+drf-yasg==1.21.7
+djangorestframework==3.14.0
+Django==3.2.12
+django-money==3.4.1
